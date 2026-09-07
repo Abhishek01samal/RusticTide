@@ -49,7 +49,7 @@ The website attempts to translate these characteristics into a modern digital in
 * Responsive layouts for different screen sizes
 * Interactive UI elements
 * Reusable components
-* GitHub Pages deployment
+* GitHub Pages deployment and production
 * Continuously evolving design and implementation
 
 ---
