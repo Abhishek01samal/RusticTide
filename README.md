@@ -45,6 +45,7 @@ The website attempts to translate these characteristics into a modern digital in
 * Type-safe development with TypeScript
 * Tailwind CSS styling
 * shadcn/ui components
+* unability
 * Fast development environment using Vite
 * Responsive layouts for different screen sizes
 * Interactive UI elements
