@@ -16,7 +16,7 @@ I come up with this design for make a this project with react
 
 The goal of RusticTide is not just to build a static website, but to explore how **design, animation, typography, interaction, and performance** can work together to create an engaging digital experience.
 
-The project is also open source and can be explored as a learning resource. You are welcome to study the implementation, understand how different components work, experiment with the code, and use the ideas to create your own projects.
+The project is also open source and can be explored as a learning resource. You are welcome to study the implementation, understand how different components work, experiment with the code, and use the ideas to create your own projects and try to make it more dynamic.
 
 ---
 
