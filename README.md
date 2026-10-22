@@ -18,6 +18,7 @@ The goal of RusticTide is not just to build a static website, but to explore how
 
 The project is also open source and can be explored as a learning resource. You are welcome to study the implementation, understand how different components work, experiment with the code, and use the ideas to create your own projects and try to make it more dynamic.
 
+This project show the creative mid set of a functional set 
 ---
 
 ## Concept
